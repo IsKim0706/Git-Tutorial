@@ -13,7 +13,7 @@ int main(void){
 
 링크는 다음과 같이 작성할 수 있습니다.
 
-[포탈 주소](https://daum.net)
+[다음 주소](https://daum.net)
 
 순서없는 목록은 다음과 같이 작성할 수 있습니다.
 
@@ -22,6 +22,10 @@ int main(void){
 * 깃 Commit
   * 깃 Commit 1)
   * 깃 Commit 2)
+
+이미지 삽입
+첫번째 방법 
+![Github logo](/images/markdown_logo.jpg) 
   
 인용 구문은 다음과 같이 작성할 수 있습니다.
 
